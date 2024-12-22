@@ -1,0 +1,2254 @@
+{
+  "Referral fees": [
+    {
+      "Category": "Automotive - Helmets & Riding Gloves",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Automotive - Helmets & Riding Gloves",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.085
+    },
+    {
+      "Category": "Automotive - Tyres & Rims",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Automotive - Tyres & Rims",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Automotive Vehicles - 2-Wheelers 4-Wheelers and Electric Vehicles",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Automotive – Car and Bike parts",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.13
+    },
+    {
+      "Category": "Automotive – Car and Bike parts",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Automotive – Cleaning kits",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Automotive – Cleaning kits",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Automotive Accessories",
+      "Price Range (INR)": "<= 1000",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Automotive Accessories",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.155
+    },
+    {
+      "Category": "Vehicle Tools and Appliances",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Vehicle Tools and Appliances",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Vehicle Tools and Appliances",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.085
+    },
+    {
+      "Category": "Oils Lubricants",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.085
+    },
+    {
+      "Category": "Automotive – Batteries and air fresheners",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Automotive – Batteries and air fresheners",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Automotive – Batteries and air fresheners",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.085
+    },
+    {
+      "Category": "Car Electronics Devices",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Car Electronics Devices",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Car Electronics Devices",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Car Electronics Accessories",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Car Electronics Accessories",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Car Electronics Accessories",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.13
+    },
+    {
+      "Category": "Baby Hardlines",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Baby Hardlines",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.085
+    },
+    {
+      "Category": "Baby Hardlines",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Baby Hardlines",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Baby Strollers",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.04
+    },
+    {
+      "Category": "Baby Strollers",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Baby Strollers",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Baby diapers",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Baby diapers",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Baby diapers",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Books",
+      "Price Range (INR)": "<= 250",
+      "Referral Fee Percentage": 0.03
+    },
+    {
+      "Category": "Books",
+      "Price Range (INR)": "> 250 and <= 500",
+      "Referral Fee Percentage": 0.045
+    },
+    {
+      "Category": "Books",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Books",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "Movies",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Music",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Musical Instruments - Guitars",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Musical Instruments - Keyboards",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Musical Instruments - Keyboards",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Musical Instruments - Microphones",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Musical Instruments - Others",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Musical Instruments - Others",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Musical Instruments - Others",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Musical Instruments - Others",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Video Games - Online game services",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.02
+    },
+    {
+      "Category": "Video Games - Online game services",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.035
+    },
+    {
+      "Category": "Video Games - Accessories",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Video Games - Accessories",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "Video Games - Consoles",
+      "Price Range (INR)": "<= 1000",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Video Games - Consoles",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Video Games",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Video Games",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Video Games",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Business and Industrial Supplies - Scientific Supplies",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Business and Industrial Supplies - Scientific Supplies",
+      "Price Range (INR)": "> 300 and <= 15000",
+      "Referral Fee Percentage": 0.115
+    },
+    {
+      "Category": "Business and Industrial Supplies - Scientific Supplies",
+      "Price Range (INR)": "> 15000",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "OTC Medicine",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "OTC Medicine",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.15
+    },
+    {
+      "Category": "Masks",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Weighing Scales & Fat Analyzers",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Weighing Scales & Fat Analyzers",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Weighing Scales & Fat Analyzers",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "3D Printers",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Business and Industrial Supplies - Material Handling Equipment",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Business and Industrial Supplies - Electrical Testing",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Business and Industrial Supplies - Power tools & accessories",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Occupational Safety Supplies",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Stethoscopes",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Packing materials",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Power & hand Tools and Water Dispenser",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Power & hand Tools and Water Dispenser",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Office products - Office supplies",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Office products - Office supplies",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.13
+    },
+    {
+      "Category": "Office products - Electronic Devices",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Office products - Electronic Devices",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.045
+    },
+    {
+      "Category": "Office products - Electronic Devices",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Office products - Electronic Devices",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Office products - Arts and Crafts",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Office products - Arts and Crafts",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Office products - Arts and Crafts",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Office products - Writing Instruments",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Office products - Writing Instruments",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Office products - Writing Instruments",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Apparel - Accessories",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.13
+    },
+    {
+      "Category": "Apparel - Accessories",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.19
+    },
+    {
+      "Category": "Apparel - Sweat Shirts and Jackets",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Apparel - Sweat Shirts and Jackets",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Apparel - Shorts",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.165
+    },
+    {
+      "Category": "Apparel - Shorts",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "Apparel - Shorts",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.235
+    },
+    {
+      "Category": "Apparel - Shorts",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.24
+    },
+    {
+      "Category": "Apparel - Baby",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Apparel - Baby",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Apparel - Baby",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Apparel - Baby",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.2
+    },
+    {
+      "Category": "Apparel - Ethnic wear",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Apparel - Ethnic wear",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.04
+    },
+    {
+      "Category": "Apparel - Ethnic wear",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Apparel - Ethnic wear",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.175
+    },
+    {
+      "Category": "Apparel - Other innerwear",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Apparel - Other innerwear",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Apparel - Other innerwear",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.165
+    },
+    {
+      "Category": "Apparel - Other innerwear",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.185
+    },
+    {
+      "Category": "Apparel - Sleepwear",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Apparel - Sleepwear",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.16
+    },
+    {
+      "Category": "Apparel - Sleepwear",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.19
+    },
+    {
+      "Category": "Apparel - Sarees and Dress Materials",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Apparel - Sarees and Dress Materials",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Apparel - Sarees and Dress Materials",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Apparel - Sarees and Dress Materials",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.23
+    },
+    {
+      "Category": "Apparel - Men's T-shirts",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.02
+    },
+    {
+      "Category": "Apparel - Men's T-shirts",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Apparel - Men's T-shirts",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.21
+    },
+    {
+      "Category": "Apparel - Womens' Innerwear / Lingerie",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Apparel - Womens' Innerwear / Lingerie",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.18
+    },
+    {
+      "Category": "Apparel - Womens' Innerwear / Lingerie",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.15
+    },
+    {
+      "Category": "Backpacks",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Backpacks",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Backpacks",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Backpacks",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.145
+    },
+    {
+      "Category": "Eyewear",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Eyewear",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.145
+    },
+    {
+      "Category": "Eyewear",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.185
+    },
+    {
+      "Category": "Fashion Jewellery",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.175
+    },
+    {
+      "Category": "Fashion Jewellery",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.225
+    },
+    {
+      "Category": "Fine Jewellery - Gold Coins",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Fine Jewellery - studded",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.13
+    },
+    {
+      "Category": "Fine Jewellery - unstudded and solitaire",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Silver Jewellery",
+      "Price Range (INR)": "<= 1000",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Silver Jewellery",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.13
+    },
+    {
+      "Category": "Flip Flops Fashion Sandals and Slippers",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.13
+    },
+    {
+      "Category": "Flip Flops Fashion Sandals and Slippers",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Flip Flops Fashion Sandals and Slippers",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.15
+    },
+    {
+      "Category": "Handbags",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.02
+    },
+    {
+      "Category": "Handbags",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Handbags",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Handbags",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Luggage - Suitcase & Trolleys",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Luggage - Suitcase & Trolleys",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Luggage - Suitcase & Trolleys",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Luggage - Travel Accessories",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Luggage - Travel Accessories",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Luggage - Travel Accessories",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Luggage - Travel Accessories",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Kids shoes",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Kids shoes",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Kids shoes",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.16
+    },
+    {
+      "Category": "Shoes",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.15
+    },
+    {
+      "Category": "Shoes",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.145
+    },
+    {
+      "Category": "Shoes",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.165
+    },
+    {
+      "Category": "Shoes - Sandals & Floaters",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Wallets",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Wallets",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Wallets",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Watches",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Cables and Adapters",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.215
+    },
+    {
+      "Category": "Cables and Adapters",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.17
+    },
+    {
+      "Category": "Cables and Adapters",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.2
+    },
+    {
+      "Category": "Camera Accessories",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Camera Accessories",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Camera Accessories",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "Camera Lenses",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Camera and Camcorder",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Cases Covers Skins Screen Guards",
+      "Price Range (INR)": "<= 150",
+      "Referral Fee Percentage": 0.03
+    },
+    {
+      "Category": "Cases Covers Skins Screen Guards",
+      "Price Range (INR)": "> 150 and <= 300",
+      "Referral Fee Percentage": 0.15
+    },
+    {
+      "Category": "Cases Covers Skins Screen Guards",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.22
+    },
+    {
+      "Category": "Cases Covers Skins Screen Guards",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.25
+    },
+    {
+      "Category": "Desktops",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Electronic Accessories",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.17
+    },
+    {
+      "Category": "Electronic Devices",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Entertainment Collectibles",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.13
+    },
+    {
+      "Category": "Entertainment Collectibles",
+      "Price Range (INR)": "> 300",
+      "Referral Fee Percentage": 0.17
+    },
+    {
+      "Category": "Fashion Smartwatches",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.155
+    },
+    {
+      "Category": "GPS Devices",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "Hard Disks",
+      "Price Range (INR)": "<= 1000",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Hard Disks",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.115
+    },
+    {
+      "Category": "Headsets Headphones and Earphones",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.18
+    },
+    {
+      "Category": "Headsets Headphones and Earphones",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.175
+    },
+    {
+      "Category": "Headsets Headphones and Earphones",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.18
+    },
+    {
+      "Category": "Keyboards and Mouse",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Keyboards and Mouse",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.145
+    },
+    {
+      "Category": "Keyboards and Mouse",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.17
+    },
+    {
+      "Category": "Kindle Accessories",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.25
+    },
+    {
+      "Category": "Laptop Bags & Sleeves",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Laptop Bags & Sleeves",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Laptop Bags & Sleeves",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Laptop Bags & Sleeves",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.145
+    },
+    {
+      "Category": "Laptop and Camera Battery",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Laptop and Camera Battery",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Laptop and Camera Battery",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Laptop and Camera Battery",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.155
+    },
+    {
+      "Category": "Laptops",
+      "Price Range (INR)": "<= 70000",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Laptops",
+      "Price Range (INR)": "> 70000",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Memory Cards",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.16
+    },
+    {
+      "Category": "Mobile phones",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Tablets",
+      "Price Range (INR)": "<= 12000",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Tablets",
+      "Price Range (INR)": "> 12000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Modems & Networking Devices",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Monitors",
+      "Price Range (INR)": "<= 1000",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Monitors",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "PC Components",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Power Banks & Chargers",
+      "Price Range (INR)": "<= 1000",
+      "Referral Fee Percentage": 0.2
+    },
+    {
+      "Category": "Power Banks & Chargers",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.205
+    },
+    {
+      "Category": "Printers & Scanners",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Printers & Scanners",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Printers & Scanners",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Software Products",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Speakers",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Speakers",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.115
+    },
+    {
+      "Category": "Speakers",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Television",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Landline Phones",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Smart Watches & Accessories",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.155
+    },
+    {
+      "Category": "Smart Watches & Accessories",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.165
+    },
+    {
+      "Category": "Smart Watches & Accessories",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.17
+    },
+    {
+      "Category": "USB Flash Drives",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.16
+    },
+    {
+      "Category": "Projectors Home Theatre Systems",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Grocery - herbs and spices",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.04
+    },
+    {
+      "Category": "Grocery - herbs and spices",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Grocery - herbs and spices",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Grocery & Gourmet - Oils",
+      "Price Range (INR)": "<= 1000",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Grocery & Gourmet - Oils",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Grocery - Dried fruits and nuts",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Grocery - Dried fruits and nuts",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Grocery - Dried fruits and nuts",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Grocery - Hampers and gifting",
+      "Price Range (INR)": "<= 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Grocery - Hampers and gifting",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.115
+    },
+    {
+      "Category": "Pet food",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Pet food",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.115
+    },
+    {
+      "Category": "Pet food",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Pet Products",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.02
+    },
+    {
+      "Category": "Pet Products",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Pet Products",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Beauty - Fragrance",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "Beauty - Fragrance",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Beauty - Fragrance",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Beauty - Haircare Bath and Shower",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Beauty - Haircare Bath and Shower",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Beauty - Haircare Bath and Shower",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Beauty - Makeup",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Beauty - Makeup",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.045
+    },
+    {
+      "Category": "Beauty - Makeup",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Beauty - Makeup",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Face Wash",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Face Wash",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Face Wash",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Face Wash",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Moisturizer cream",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Moisturizer cream",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Moisturizer cream",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Sunscreen",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Sunscreen",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Sunscreen",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Sunscreen",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Deodrants",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.085
+    },
+    {
+      "Category": "Deodrants",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Deodrants",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Facial steamers",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Facial steamers",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Facial steamers",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Prescription Medicine",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Health & Personal Care - Medical Equipment & Contact Lens",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Health and Personal Care - Ayurvedic products",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Health and Personal Care - Ayurvedic products",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Health and Personal Care - Ayurvedic products",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Health & Household - Sports Nutrition",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Health and Personal Care - Contact lens",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Health and Household - Household Cleaning",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.045
+    },
+    {
+      "Category": "Health and Household - Household Cleaning",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Health and Household - Household Cleaning",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Health and Household - Vitamins & Supplements",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Health and Household - Vitamins & Supplements",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Luxury Beauty",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Luxury Beauty",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Luxury Beauty",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Luxury Beauty",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Car Cradles Lens Kits and Tablet Cases",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.19
+    },
+    {
+      "Category": "Car Cradles Lens Kits and Tablet Cases",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.25
+    },
+    {
+      "Category": "Car Cradles Lens Kits and Tablet Cases",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.29
+    },
+    {
+      "Category": "Personal Care Appliances - Electric Massagers",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Personal Care Appliances - Electric Massagers",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "Personal Care Appliances - Electric Massagers",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.145
+    },
+    {
+      "Category": "Personal Care Appliances - Grooming & Styling",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Personal Care Appliances - Grooming & Styling",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Personal Care Appliances - Grooming & Styling",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Personal Care Appliances - Glucometer",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Personal Care Appliances - Thermometers",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Personal Care Appliances - Thermometers",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.105
+    },
+    {
+      "Category": "Bean Bags & Inflatables",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Mattresses",
+      "Price Range (INR)": "<= 1000",
+      "Referral Fee Percentage": 0.255
+    },
+    {
+      "Category": "Mattresses",
+      "Price Range (INR)": "> 1000 and <= 20000",
+      "Referral Fee Percentage": 0.16
+    },
+    {
+      "Category": "Mattresses",
+      "Price Range (INR)": "> 20000",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "Rugs and Doormats",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.04
+    },
+    {
+      "Category": "Rugs and Doormats",
+      "Price Range (INR)": "> 300",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Clocks",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.04
+    },
+    {
+      "Category": "Clocks",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Clocks",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Wall Art",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Wall Art",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Wall Art",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "Home - Fragrance & Candles",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.02
+    },
+    {
+      "Category": "Home - Fragrance & Candles",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Home - Fragrance & Candles",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Bedsheets Blankets and covers",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.03
+    },
+    {
+      "Category": "Bedsheets Blankets and covers",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Bedsheets Blankets and covers",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.085
+    },
+    {
+      "Category": "Home furnishing",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.02
+    },
+    {
+      "Category": "Home furnishing",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Home furnishing",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Containers Boxes Bottles Kitchen Storage",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.02
+    },
+    {
+      "Category": "Containers Boxes Bottles Kitchen Storage",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Containers Boxes Bottles Kitchen Storage",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Home improvement - Accessories",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.135
+    },
+    {
+      "Category": "Home improvement (excl. accessories)",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Tiles & Flooring Accessories",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Wires",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Ladders Kitchen and Bath fixtures",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Home Storage",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Home Storage",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Home Storage",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.15
+    },
+    {
+      "Category": "Wallpapers & Wallpaper Accessories",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Wallpapers & Wallpaper Accessories",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Wallpapers & Wallpaper Accessories",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Home Decor Products",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Home Decor Products",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Home Decor Products",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.17
+    },
+    {
+      "Category": "Wall Paints and Tools",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Wall Paints and Tools",
+      "Price Range (INR)": "> 300",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Home - Waste & Recycling",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Home - Waste & Recycling",
+      "Price Range (INR)": "> 300",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Craft materials",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.02
+    },
+    {
+      "Category": "Craft materials",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Water Purifier and Accessories",
+      "Price Range (INR)": "<= 5000",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Water Purifier and Accessories",
+      "Price Range (INR)": "> 5000",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Water Heaters and Accessories",
+      "Price Range (INR)": "<= 5000",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Water Heaters and Accessories",
+      "Price Range (INR)": "> 5000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Home improvement - Kitchen & Bath",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Home improvement - Kitchen & Bath",
+      "Price Range (INR)": "> 300",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Sanitaryware",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Home Safety & Security Systems",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Inverter and Batteries",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.045
+    },
+    {
+      "Category": "Cleaning and Home Appliances",
+      "Price Range (INR)": "<= 5000",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Cleaning and Home Appliances",
+      "Price Range (INR)": "> 5000",
+      "Referral Fee Percentage": 0.085
+    },
+    {
+      "Category": "Indoor Lighting",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Indoor Lighting",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.145
+    },
+    {
+      "Category": "Indoor Lighting",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.115
+    },
+    {
+      "Category": "Doors and Windows",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "LED Bulbs and Battens",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.02
+    },
+    {
+      "Category": "LED Bulbs and Battens",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "LED Bulbs and Battens",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.14
+    },
+    {
+      "Category": "Cushion Covers",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.03
+    },
+    {
+      "Category": "Cushion Covers",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Cushion Covers",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Curtains and Curtain Accessories",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.155
+    },
+    {
+      "Category": "Curtains and Curtain Accessories",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.165
+    },
+    {
+      "Category": "Curtains and Curtain Accessories",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.115
+    },
+    {
+      "Category": "Curtains and Curtain Accessories",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.165
+    },
+    {
+      "Category": "Slipcovers and Kitchen Linens",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.075
+    },
+    {
+      "Category": "Slipcovers and Kitchen Linens",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.115
+    },
+    {
+      "Category": "Slipcovers and Kitchen Linens",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.155
+    },
+    {
+      "Category": "Safes and Lockers",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.12
+    },
+    {
+      "Category": "Lawn & Garden - Solar Panels",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Lawn & Garden - Leaf blower",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Lawn & Garden - Commercial Agricultural",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.03
+    },
+    {
+      "Category": "Lawn & Garden - Chemical Pest Control",
+      "Price Range (INR)": "<= 1000",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Lawn & Garden - Chemical Pest Control",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.09
+    },
+    {
+      "Category": "Lawn & Garden - Solar Devices",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Lawn and Garden - Planters",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.13
+    },
+    {
+      "Category": "Lawn and Garden - Planters",
+      "Price Range (INR)": "> 300 and <= 15000",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Lawn and Garden - Planters",
+      "Price Range (INR)": "> 15000",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Lawn and Garden - Plants Seeds & Bulbs",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Lawn and Garden - Plants Seeds & Bulbs",
+      "Price Range (INR)": "> 500",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Lawn & Garden - Outdoor equipments",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Kitchen - Non Appliances",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Kitchen - Non Appliances",
+      "Price Range (INR)": "> 300",
+      "Referral Fee Percentage": 0.115
+    },
+    {
+      "Category": "Kitchen - Glassware & Ceramicware",
+      "Price Range (INR)": "<= 500",
+      "Referral Fee Percentage": 0.04
+    },
+    {
+      "Category": "Kitchen - Glassware & Ceramicware",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Kitchen - Glassware & Ceramicware",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Kitchen - Gas Stoves & Pressure Cookers",
+      "Price Range (INR)": "<= 1500",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Kitchen - Gas Stoves & Pressure Cookers",
+      "Price Range (INR)": "> 1500",
+      "Referral Fee Percentage": 0.1
+    },
+    {
+      "Category": "Large Appliances (excl. specified)",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Large Appliances - Accessories",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.16
+    },
+    {
+      "Category": "Large Appliances - Chimneys",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.095
+    },
+    {
+      "Category": "Large Appliances - Refrigerators",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Small Appliances",
+      "Price Range (INR)": "<= 5000",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Small Appliances",
+      "Price Range (INR)": "> 5000",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Fans and Robotic Vacuums",
+      "Price Range (INR)": "<= 3000",
+      "Referral Fee Percentage": 0.065
+    },
+    {
+      "Category": "Fans and Robotic Vacuums",
+      "Price Range (INR)": "> 3000",
+      "Referral Fee Percentage": 0.08
+    },
+    {
+      "Category": "Bicycles",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.07
+    },
+    {
+      "Category": "Bicycles",
+      "Price Range (INR)": "> 300 and <= 1000",
+      "Referral Fee Percentage": 0.055
+    },
+    {
+      "Category": "Bicycles",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.06
+    },
+    {
+      "Category": "Sports & Outdoors - Footwear",
+      "Price Range (INR)": "<= 300",
+      "Referral Fee Percentage": 0.115
+    },
+    {
+      "Category": "Sports & Outdoors - Footwear",
+      "Price Range (INR)": "> 300 and <= 500",
+      "Referral Fee Percentage": 0.125
+    },
+    {
+      "Category": "Sports & Outdoors - Footwear",
+      "Price Range (INR)": "> 500 and <= 1000",
+      "Referral Fee Percentage": 0.145
+    },
+    {
+      "Category": "Sports & Outdoors - Footwear",
+      "Price Range (INR)": "> 1000",
+      "Referral Fee Percentage": 0.16
+    },
+    {
+      "Category": "Coin Collectibles",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.15
+    },
+    {
+      "Category": "Silver Coins & Bars",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.03
+    },
+    {
+      "Category": "Furniture - Other products",
+      "Price Range (INR)": "<= 15000",
+      "Referral Fee Percentage": 0.155
+    },
+    {
+      "Category": "Furniture - Other products",
+      "Price Range (INR)": "> 15000",
+      "Referral Fee Percentage": 0.11
+    },
+    {
+      "Category": "Consumable Physical Gift Card",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.05
+    },
+    {
+      "Category": "Warranty Services",
+      "Price Range (INR)": "All",
+      "Referral Fee Percentage": 0.3
+    }
+  ],
+  "Closing fees": [
+    {
+      "Price Range (₹)": "0-250",
+      "FBA Normal": "₹25",
+      "FBA Exception": "₹12",
+      "Easy Ship (Standard)": "₹4",
+      "Self Ship": "₹7",
+      "Seller Flex": "₹7"
+    },
+    {
+      "Price Range (₹)": "251-500",
+      "FBA Normal": "₹20",
+      "FBA Exception": "₹12",
+      "Easy Ship (Standard)": "₹9",
+      "Self Ship": "₹20",
+      "Seller Flex": "₹11"
+    },
+    {
+      "Price Range (₹)": "501-1000",
+      "FBA Normal": "₹25",
+      "FBA Exception": "₹25",
+      "Easy Ship (Standard)": "₹30",
+      "Self Ship": "₹41",
+      "Seller Flex": "₹30"
+    },
+    {
+      "Price Range (₹)": "1000+",
+      "FBA Normal": "₹50",
+      "FBA Exception": "₹70",
+      "Easy Ship (Standard)": "₹61",
+      "Self Ship": "₹80",
+      "Seller Flex": "₹61"
+    }
+  ],
+  "Weight handling fees": [
+    {
+      "Service Level": "Easy Ship Standard Size - Premium",
+      "Weight Range": "First 500g",
+      "Local": "₹43",
+      "Regional": "₹54.5",
+      "National": "₹76",
+      "IXD": "-"
+    },
+    {
+      "Service Level": "Easy Ship Standard Size - Advanced",
+      "Weight Range": "First 500g",
+      "Local": "₹43",
+      "Regional": "₹54.5",
+      "National": "₹76",
+      "IXD": "-"
+    },
+    {
+      "Service Level": "Easy Ship Standard Size - Standard",
+      "Weight Range": "First 500g",
+      "Local": "₹49",
+      "Regional": "₹56",
+      "National": "₹77",
+      "IXD": "-"
+    },
+    {
+      "Service Level": "Easy Ship Standard Size - Basic",
+      "Weight Range": "First 500g",
+      "Local": "₹55",
+      "Regional": "₹60.5",
+      "National": "₹81",
+      "IXD": "-"
+    },
+    {
+      "Service Level": "Easy Ship Standard Size - All Levels",
+      "Weight Range": "Additional 500g up to 1kg",
+      "Local": "₹13",
+      "Regional": "₹17",
+      "National": "₹25",
+      "IXD": "-"
+    },
+    {
+      "Service Level": "Easy Ship Standard Size - All Levels",
+      "Weight Range": "Additional kg after 1kg",
+      "Local": "₹21",
+      "Regional": "₹27",
+      "National": "₹33",
+      "IXD": "-"
+    },
+    {
+      "Service Level": "Easy Ship Standard Size - All Levels",
+      "Weight Range": "Additional kg after 5kg",
+      "Local": "₹12",
+      "Regional": "₹13",
+      "National": "₹16",
+      "IXD": "-"
+    },
+    {
+      "Service Level": "Easy Ship Heavy & Bulky - All Levels",
+      "Weight Range": "First 12kg",
+      "Local": "₹192",
+      "Regional": "₹277",
+      "National": "₹371",
+      "IXD": "-"
+    },
+    {
+      "Service Level": "Easy Ship Heavy & Bulky - All Levels",
+      "Weight Range": "Each additional kg after 12kg",
+      "Local": "₹5",
+      "Regional": "₹6",
+      "National": "₹12",
+      "IXD": "-"
+    },
+    {
+      "Service Level": "FBA Standard Size - Premium/Advanced",
+      "Weight Range": "First 500g",
+      "Local": "₹29",
+      "Regional": "₹40.5",
+      "National": "₹63",
+      "IXD": "₹45"
+    },
+    {
+      "Service Level": "FBA Standard Size - Standard",
+      "Weight Range": "First 500g",
+      "Local": "₹35",
+      "Regional": "₹42",
+      "IXD": "₹46"
+    },
+    {
+      "Service Level": "FBA Standard Size - Basic",
+      "Weight Range": "First 500g",
+      "Local": "₹41",
+      "Regional": "₹46.5",
+      "National": "₹67",
+      "IXD": "₹50"
+    },
+    {
+      "Service Level": "FBA Standard Size - All Levels",
+      "Weight Range": "Additional 500g up to 1kg",
+      "Local": "₹13",
+      "Regional": "₹17",
+      "National": "₹25",
+      "IXD": "₹20"
+    },
+    {
+      "Service Level": "FBA Standard Size - All Levels",
+      "Weight Range": "Additional kg after 1kg",
+      "Local": "₹21",
+      "Regional": "₹27",
+      "National": "₹33",
+      "IXD": "₹28"
+    },
+    {
+      "Service Level": "FBA Standard Size - All Levels",
+      "Weight Range": "Additional kg after 5kg",
+      "Local": "₹12",
+      "Regional": "₹13",
+      "National": "₹16",
+      "IXD": "₹14"
+    },
+    {
+      "Service Level": "FBA Heavy & Bulky - Premium/Advanced",
+      "Weight Range": "First 12kg",
+      "Local": "₹82",
+      "Regional": "₹129",
+      "National": "₹176.5",
+      "IXD": "NA"
+    },
+    {
+      "Service Level": "FBA Heavy & Bulky - Standard",
+      "Weight Range": "First 12kg",
+      "Local": "₹88",
+      "Regional": "₹130.5",
+      "National": "₹177.5",
+      "IXD": "NA"
+    },
+    {
+      "Service Level": "FBA Heavy & Bulky - Basic",
+      "Weight Range": "First 12kg",
+      "Local": "₹94",
+      "Regional": "₹135",
+      "National": "₹181.5",
+      "IXD": "NA"
+    },
+    {
+      "Service Level": "FBA Heavy & Bulky - All Levels",
+      "Weight Range": "Each additional kg after 12kg",
+      "Local": "₹2.5",
+      "Regional": "₹3",
+      "National": "₹6",
+      "IXD": "NA"
+    }
+  ],
+  "Other Fees": [
+    {
+      "Fee Type": "Pick & Pack Fee",
+      "Category": "Standard Size",
+      "Rate": "₹14"
+    },
+    {
+      "Fee Type": "Pick & Pack Fee",
+      "Category": "Oversize/Heavy & Bulky",
+      "Rate": "₹26"
+    },
+    {
+      "Fee Type": "Storage Fee",
+      "Category": "All Categories",
+      "Rate": "₹45 per cubic foot per month"
+    },
+    {
+      "Fee Type": "Removal Fees",
+      "Category": "Standard Size - Standard Shipping",
+      "Rate": "₹10"
+    },
+    {
+      "Fee Type": "Removal Fees",
+      "Category": "Standard Size - Expedited Shipping",
+      "Rate": "₹30"
+    },
+    {
+      "Fee Type": "Removal Fees",
+      "Category": "Heavy & Bulky - Standard Shipping",
+      "Rate": "₹100"
+    },
+    {
+      "Fee Type": "Removal Fees",
+      "Category": "Heavy & Bulky - Expedited Shipping",
+      "Rate": "₹100"
+    }
+  ],
+  "Sheet5": []
+}
