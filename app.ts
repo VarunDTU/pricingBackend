@@ -5,9 +5,9 @@ import { handlePricingCalculation } from "./controller/product";
 dotenv.config();
 
 const app: Express = express();
-const port = process.env.PORT || 3000;
+const port = process.env.BACKEND_PORT || 3000;
 const corsOptions = {
-  origin: "http://localhost:5173",
+  origin: process.env.FRONTEND_URL,
   optionsSuccessStatus: 200,
 };
 app.use(cors(corsOptions));
